@@ -14,7 +14,7 @@ Discount Impact
 Found a strong negative correlation between discount and profit (-0.24).
 
 Shipping Efficiency
-Average delivery time: 3.9 days for Standard Class vs. 2.1 days for First Class.
+Average delivery time: 3.2 days for Standard Class vs. 2.1 days for First Class.
 
 Customer Retention
-Repeat customers contributed ~63% of total revenue.
+Repeat customers contributed ~99% of total revenue.
